@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @triyys
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning .NET Core
+- 👀 I’m interested in C#, Javascript
+- 🌱 I’m currently learning .NET Core, React, Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
